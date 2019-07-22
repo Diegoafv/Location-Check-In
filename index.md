@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LocationCheckIn Page
 
 You can use the [editor on GitHub](https://github.com/Diegoafv/Location-Check-In/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
