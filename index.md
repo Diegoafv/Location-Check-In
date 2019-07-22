@@ -1,37 +1,14 @@
 ## Welcome to LocationCheckIn Page
 
-You can use the [editor on GitHub](https://github.com/Diegoafv/Location-Check-In/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+LocationCheckIn Admin app brings a modern way for international student's teachers to manage their school's events. It was built to let them create and control activities online. They will be able to add all the information, control all event's availability for sign up, check in and check out. The app uses geolocation to verify student's position in order to accept their attendance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+--
 
-### Markdown
+LocationCheckIn Students app brings a modern way for international students to participate in their school's events. It was created to let them search for available activities and sign up online. They will be able to check all the information, get the address and use their gps to navigate to the place. Once there, the app uses geolocation to check in and check out.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+--
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Diegoafv/Location-Check-In/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the apps? Contact me at my GitHub page, or using this email: dafvus@gmail.com, and I’ll help you sort it out.
